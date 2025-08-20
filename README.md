@@ -1,2 +1,1 @@
-# oberlincampus.github.io
-Oberlin College Campus Through The Years
+# Oberlin Campus Through Time
